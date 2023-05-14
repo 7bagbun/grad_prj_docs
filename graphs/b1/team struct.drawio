@@ -1,0 +1,103 @@
+<mxfile host="Electron" modified="2023-05-14T11:20:01.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="6WQaY8Q_FBPKyiEPJOan" version="21.2.8" type="device">
+  <diagram name="Page-1" id="Drn_usxBjkb_Vxsdtx2F">
+    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RT6NQr7ZI-np7duKCUox-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Verdana;" edge="1" parent="1" source="RT6NQr7ZI-np7duKCUox-1" target="RT6NQr7ZI-np7duKCUox-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RT6NQr7ZI-np7duKCUox-1" target="RT6NQr7ZI-np7duKCUox-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="40" />
+              <mxPoint x="380" y="200" />
+              <mxPoint x="80" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RT6NQr7ZI-np7duKCUox-1" target="RT6NQr7ZI-np7duKCUox-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="40" />
+              <mxPoint x="380" y="200" />
+              <mxPoint x="230" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RT6NQr7ZI-np7duKCUox-1" target="RT6NQr7ZI-np7duKCUox-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RT6NQr7ZI-np7duKCUox-1" target="RT6NQr7ZI-np7duKCUox-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="40" />
+              <mxPoint x="380" y="200" />
+              <mxPoint x="530" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RT6NQr7ZI-np7duKCUox-1" target="RT6NQr7ZI-np7duKCUox-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="40" />
+              <mxPoint x="380" y="200" />
+              <mxPoint x="680" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;專案負責人&lt;br&gt;王唯哲&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="152" width="156" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;專案指導人&lt;br&gt;江長唐&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="450" width="156" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-15" value="" style="group;fontFamily=Verdana;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="310" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-11" value="&lt;p style=&quot;line-height: 115%; font-size: 20px;&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;蔡品清&lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;line-height: 115%; font-size: 20px;&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;徐士傑&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" vertex="1" parent="RT6NQr7ZI-np7duKCUox-15">
+          <mxGeometry y="40" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-14" value="&lt;p style=&quot;line-height: 115%&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;系統分析&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="RT6NQr7ZI-np7duKCUox-15">
+          <mxGeometry width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-16" value="" style="group;fontFamily=Verdana;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="310" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-17" value="&lt;p style=&quot;line-height: 115%; font-size: 20px;&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;衛志宏&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 115%; font-size: 20px;&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;邱勁捷&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 115%; font-size: 20px;&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;陳裕璋&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" vertex="1" parent="RT6NQr7ZI-np7duKCUox-16">
+          <mxGeometry y="40" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-18" value="&lt;p style=&quot;line-height: 115%&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;程式設計&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="RT6NQr7ZI-np7duKCUox-16">
+          <mxGeometry width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-19" value="" style="group;fontFamily=Verdana;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="310" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-20" value="&lt;p style=&quot;line-height: 115%; font-size: 20px;&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;詹皓安&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 115%; font-size: 20px;&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;邱品宸&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 115%; font-size: 20px;&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;黃煜誠&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" vertex="1" parent="RT6NQr7ZI-np7duKCUox-19">
+          <mxGeometry y="40" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-21" value="&lt;p style=&quot;line-height: 115%&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;資料庫建置&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="RT6NQr7ZI-np7duKCUox-19">
+          <mxGeometry width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-22" value="" style="group;fontFamily=Verdana;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="310" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-23" value="&lt;p style=&quot;line-height: 115%; font-size: 20px;&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;徐士傑&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 115%; font-size: 20px;&quot; class=&quot;cjk&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 115%; font-size: 20px;&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;黃煜誠&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" vertex="1" parent="RT6NQr7ZI-np7duKCUox-22">
+          <mxGeometry y="40" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-24" value="&lt;p style=&quot;line-height: 115%&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;系統測試&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="RT6NQr7ZI-np7duKCUox-22">
+          <mxGeometry width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-25" value="" style="group;fontFamily=Verdana;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="620" y="310" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-26" value="&lt;p style=&quot;line-height: 115%; font-size: 20px;&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;衛志宏&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 115%; font-size: 20px;&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;邱品宸&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontFamily=Verdana;" vertex="1" parent="RT6NQr7ZI-np7duKCUox-25">
+          <mxGeometry y="40" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="RT6NQr7ZI-np7duKCUox-27" value="&lt;p style=&quot;line-height: 115%&quot; class=&quot;cjk&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;文件撰寫&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="RT6NQr7ZI-np7duKCUox-25">
+          <mxGeometry width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
