@@ -1,0 +1,140 @@
+<mxfile host="Electron" modified="2023-09-08T13:46:21.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="6Ru7hRelD2h9N5fkom5O" version="21.6.5" type="device">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="1182" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value=":個人資料頁面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="175" y="50" width="100" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="u0oZMTtR8gRalYjMGA4H-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
+          <mxGeometry x="55" y="249.82000000000005" width="10" height="40.02" as="geometry" />
+        </mxCell>
+        <mxCell id="u0oZMTtR8gRalYjMGA4H-4" value="載入編輯工具" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-1" target="u0oZMTtR8gRalYjMGA4H-3" source="aM9ryv3xv72pqoxQDRHE-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="230.0000000000001" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="230" />
+              <mxPoint x="90" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FATohEn67VC4ZCUtdnCY-14" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=60;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="30" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="FATohEn67VC4ZCUtdnCY-15" value="點選個人資料" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="FATohEn67VC4ZCUtdnCY-14" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
+          <mxGeometry x="0.002" width="80" relative="1" as="geometry">
+            <mxPoint x="54.810344827586164" y="129.9968965517242" as="sourcePoint" />
+            <mxPoint x="220" y="129.9968965517242" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="120" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKTwQmuFr4gLuuUH_9-y-1" value=":會員控制器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="354" y="50" width="120" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="CKTwQmuFr4gLuuUH_9-y-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="CKTwQmuFr4gLuuUH_9-y-1" vertex="1">
+          <mxGeometry x="55" y="370" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ltBeMm9jzSjpLKJUCh5K-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="CKTwQmuFr4gLuuUH_9-y-1" vertex="1">
+          <mxGeometry x="65" y="509.6300000000001" width="10" height="40.02" as="geometry" />
+        </mxCell>
+        <mxCell id="ltBeMm9jzSjpLKJUCh5K-27" value="修改會員資料" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="CKTwQmuFr4gLuuUH_9-y-1" source="CKTwQmuFr4gLuuUH_9-y-2" target="ltBeMm9jzSjpLKJUCh5K-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="490.0044827586207" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="100" y="490" />
+              <mxPoint x="100" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltBeMm9jzSjpLKJUCh5K-1" value="顯示個人資料頁面" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="FATohEn67VC4ZCUtdnCY-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="54.81034482758605" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155" y="190" />
+            </Array>
+            <mxPoint x="220" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltBeMm9jzSjpLKJUCh5K-2" value="點選修改" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" target="aM9ryv3xv72pqoxQDRHE-2" edge="1" source="FATohEn67VC4ZCUtdnCY-14">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="54.81034482758605" y="260.0000000000001" as="sourcePoint" />
+            <mxPoint x="220" y="260.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltBeMm9jzSjpLKJUCh5K-3" value=":會員資料庫" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="550" y="50" width="120" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="3AoePGu9Csa5akxHi1Ad-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="ltBeMm9jzSjpLKJUCh5K-3" vertex="1">
+          <mxGeometry x="55" y="390" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ltBeMm9jzSjpLKJUCh5K-29" value="查詢會員" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="CKTwQmuFr4gLuuUH_9-y-2" target="3AoePGu9Csa5akxHi1Ad-5" edge="1">
+          <mxGeometry x="-0.0215" width="80" relative="1" as="geometry">
+            <mxPoint x="419" y="741" as="sourcePoint" />
+            <mxPoint x="605" y="741" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="450" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3AoePGu9Csa5akxHi1Ad-9" value="提示更改成功" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="CKTwQmuFr4gLuuUH_9-y-2" target="FATohEn67VC4ZCUtdnCY-14" edge="1">
+          <mxGeometry x="0.519" width="80" relative="1" as="geometry">
+            <mxPoint x="429" y="640" as="sourcePoint" />
+            <mxPoint x="615" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="660" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u0oZMTtR8gRalYjMGA4H-2" value="顯示修改介面" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="FATohEn67VC4ZCUtdnCY-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="360" />
+            </Array>
+            <mxPoint x="246" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u0oZMTtR8gRalYjMGA4H-5" value="儲存變更" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="FATohEn67VC4ZCUtdnCY-14" target="CKTwQmuFr4gLuuUH_9-y-2">
+          <mxGeometry x="-0.5183" width="80" relative="1" as="geometry">
+            <mxPoint x="60" y="434.58000000000004" as="sourcePoint" />
+            <mxPoint x="225" y="434.58000000000004" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="430" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u0oZMTtR8gRalYjMGA4H-6" value="傳回會員資料" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="3AoePGu9Csa5akxHi1Ad-5" target="CKTwQmuFr4gLuuUH_9-y-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535" y="510" />
+            </Array>
+            <mxPoint x="595" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u0oZMTtR8gRalYjMGA4H-8" value="寫入變更" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="CKTwQmuFr4gLuuUH_9-y-2" target="3AoePGu9Csa5akxHi1Ad-5">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="429" y="630" as="sourcePoint" />
+            <mxPoint x="615" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

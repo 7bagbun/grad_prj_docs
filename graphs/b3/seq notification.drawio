@@ -1,0 +1,82 @@
+<mxfile host="Electron" modified="2023-09-07T14:24:27.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="6swgicaW-KYcWc-yOuaX" version="21.6.5" type="device">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QuSSq6ETSMGOlEVrF7au-1" value=":關注商品頁面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="145" y="20" width="100" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="QuSSq6ETSMGOlEVrF7au-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="QuSSq6ETSMGOlEVrF7au-1">
+          <mxGeometry x="45" y="70" width="10" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="QuSSq6ETSMGOlEVrF7au-3" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=60;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="30" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="QuSSq6ETSMGOlEVrF7au-4" value="點選關注清單" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="QuSSq6ETSMGOlEVrF7au-3" target="QuSSq6ETSMGOlEVrF7au-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="24.810344827586164" y="99.9968965517242" as="sourcePoint" />
+            <mxPoint x="190" y="99.9968965517242" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuSSq6ETSMGOlEVrF7au-5" value=":關注商品資料庫" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="330" y="20" width="120" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="QuSSq6ETSMGOlEVrF7au-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="QuSSq6ETSMGOlEVrF7au-5">
+          <mxGeometry x="55" y="100" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QuSSq6ETSMGOlEVrF7au-7" value="載入會員的關注商品列表" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="QuSSq6ETSMGOlEVrF7au-2" target="QuSSq6ETSMGOlEVrF7au-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="200" y="119.99724137931034" as="sourcePoint" />
+            <mxPoint x="383" y="120.13999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuSSq6ETSMGOlEVrF7au-8" value="傳回關注商品資料" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="QuSSq6ETSMGOlEVrF7au-6" target="QuSSq6ETSMGOlEVrF7au-2">
+          <mxGeometry x="-0.027" relative="1" as="geometry">
+            <mxPoint x="200" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="295" y="200" />
+            </Array>
+            <mxPoint x="390" y="200" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuSSq6ETSMGOlEVrF7au-9" value="顯示關注列表" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="QuSSq6ETSMGOlEVrF7au-2" target="QuSSq6ETSMGOlEVrF7au-3">
+          <mxGeometry x="0.0909" relative="1" as="geometry">
+            <mxPoint x="30" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="230" />
+            </Array>
+            <mxPoint x="195" y="220" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuSSq6ETSMGOlEVrF7au-10" value="點選任一條目" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="24.81034482758605" y="300.0000000000001" as="sourcePoint" />
+            <mxPoint x="190" y="300.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="115" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QuSSq6ETSMGOlEVrF7au-11" value="顯示其詳細資訊&lt;br&gt;(歷史/目前價格)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="QuSSq6ETSMGOlEVrF7au-2" target="QuSSq6ETSMGOlEVrF7au-3">
+          <mxGeometry x="0.0909" relative="1" as="geometry">
+            <mxPoint x="35" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="370" />
+            </Array>
+            <mxPoint x="200" y="370" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
