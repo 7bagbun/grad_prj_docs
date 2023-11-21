@@ -1,13 +1,13 @@
-<mxfile host="Electron" modified="2023-11-19T17:28:31.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="ktpHZxvTXsTJ3-Bpfl6L" version="21.6.5" type="device">
+<mxfile host="Electron" modified="2023-11-21T08:03:37.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="m4WpojDZyZl3Xu1Php5U" version="21.6.5" type="device">
   <diagram name="Page-1" id="32ckkzt09vxWi3VlrIsG">
-    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1417" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GCRPchwakwvYKEL7GSOm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="GCRPchwakwvYKEL7GSOm-2" target="GCRPchwakwvYKEL7GSOm-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="585" />
+              <mxPoint x="180" y="560" />
               <mxPoint x="180" y="485" />
             </Array>
           </mxGeometry>
@@ -15,13 +15,22 @@
         <mxCell id="GCRPchwakwvYKEL7GSOm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="GCRPchwakwvYKEL7GSOm-2" target="GCRPchwakwvYKEL7GSOm-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="585" />
+              <mxPoint x="180" y="560" />
               <mxPoint x="180" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="DrZ_DEdSHvbozW6SdvpG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="GCRPchwakwvYKEL7GSOm-2" target="DrZ_DEdSHvbozW6SdvpG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrZ_DEdSHvbozW6SdvpG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="GCRPchwakwvYKEL7GSOm-2" target="DrZ_DEdSHvbozW6SdvpG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrZ_DEdSHvbozW6SdvpG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="GCRPchwakwvYKEL7GSOm-2" target="DrZ_DEdSHvbozW6SdvpG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GCRPchwakwvYKEL7GSOm-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;網頁後端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="10" y="565" width="140" height="40" as="geometry" />
+          <mxGeometry x="10" y="540" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GCRPchwakwvYKEL7GSOm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="GCRPchwakwvYKEL7GSOm-3" target="GCRPchwakwvYKEL7GSOm-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -58,6 +67,43 @@
         </mxCell>
         <mxCell id="GCRPchwakwvYKEL7GSOm-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;管理一般公告&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="414" y="640" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrZ_DEdSHvbozW6SdvpG-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;爬蟲&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="210" y="980" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrZ_DEdSHvbozW6SdvpG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrZ_DEdSHvbozW6SdvpG-3" target="DrZ_DEdSHvbozW6SdvpG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DrZ_DEdSHvbozW6SdvpG-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;評論管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrZ_DEdSHvbozW6SdvpG-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;刪除評論&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="414" y="270" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrZ_DEdSHvbozW6SdvpG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="DrZ_DEdSHvbozW6SdvpG-7" target="DrZ_DEdSHvbozW6SdvpG-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="870" />
+              <mxPoint x="380" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrZ_DEdSHvbozW6SdvpG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DrZ_DEdSHvbozW6SdvpG-7" target="DrZ_DEdSHvbozW6SdvpG-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="870" />
+              <mxPoint x="380" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DrZ_DEdSHvbozW6SdvpG-7" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;編輯首頁輪播&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="210" y="850" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrZ_DEdSHvbozW6SdvpG-9" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;刪除輪播圖片&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="414" y="810" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DrZ_DEdSHvbozW6SdvpG-12" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;新增輪播圖片&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="414" y="890" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
